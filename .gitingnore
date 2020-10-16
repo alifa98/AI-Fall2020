@@ -1,0 +1,6 @@
+VC
+books
+*.aux
+*.log
+*.out
+*.synctex.gz
